@@ -1,4 +1,4 @@
-FROM openjdk:latest
+FROM openjdk:11
 
 RUN java --version
 
